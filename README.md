@@ -1,6 +1,6 @@
 # Let's Begin
 
-![Hollow Knight Stag Ride](/mnt/data/transport_stag_example.gif)
+![Hollow Knight Stag Ride](assets/transport_stag_example.gif)
 
 ---
 
