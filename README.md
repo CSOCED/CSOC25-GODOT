@@ -1,6 +1,8 @@
-# Let's Begin
+<h1 align="center">Let's Begin</h1>
 
-![Hollow Knight Stag Ride](assets/transport_stag_example.gif)
+<p align="center">
+  <img src="assets/transport_stag_example.gif" alt="Hollow Knight Stag Ride">
+</p>
 
 ---
 
@@ -24,6 +26,6 @@ To make it easier for you to understand this, we have a video that covers all th
 
 ## Resources
 
-- 📖 [Docs](https://docs.godotengine.org/en/stable/getting_started/step_by_step/index.html)
-- 🎮 [Brackeys Playlist to Get Started](https://www.youtube.com/feed/playlists)
+- 📖 [Docs](https://docs.godotengine.org/en/stable/getting_started/step_by_step/index.html)  
+- 🎮 [Brackeys Playlist to Get Started](https://www.youtube.com/feed/playlists)  
 - 🎥 [Nodes in Godot](https://youtu.be/tO2gthp45MA?feature=shared)
