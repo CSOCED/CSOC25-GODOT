@@ -1,4 +1,4 @@
-<h1 align="center">Let's Begin</h1>
+<h1 align="center"> Week 0 : Let's Begin</h1>
 
 <p align="center">
   <img src="assets/transport_stag_example.gif" alt="Hollow Knight Stag Ride">
